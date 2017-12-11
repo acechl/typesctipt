@@ -1,0 +1,16 @@
+{
+  "name": "typeScript",
+  "version": "1.0.0",
+  "description": "typeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "acechl",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "^2.6.2"
+  }
+}
